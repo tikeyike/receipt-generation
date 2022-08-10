@@ -1,0 +1,12 @@
+{
+  "server": {
+    "project": "",
+    "cors": true,
+    "routes": [
+      {
+        "route": "/receipt-generation",
+        "module": "./routes/receipt-generation.js"
+      }
+    ]
+  }
+}

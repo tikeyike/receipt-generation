@@ -35,6 +35,13 @@ oneblink api scope {YOUR API URL}
 - Once your scope has been set, you can then type in the following command:
 
 ```
+npm i
+```
+
+- Wait till that finishes downloading the packages
+- Then type in the following:
+
+```
 oneblink api deploy
 ```
 

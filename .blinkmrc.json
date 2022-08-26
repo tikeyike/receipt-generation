@@ -6,6 +6,10 @@
       {
         "route": "/receipt-generation",
         "module": "./routes/receipt-generation.js"
+      },
+      {
+        "route": "/qr-code-generation",
+        "module": "./routes/qr-code-generation.js"
       }
     ]
   }
